@@ -48,7 +48,7 @@ The corresponding elements along the diagonal of $C_{S}$ are then used to identi
 
 $$\Delta V = \frac{V_{UCM} - V_{ORT}}{V_{TOT}}$$
 
-All of the above is completed in the single call to `ucm()`.
+All of the above is completed in the single call to `UCM()`.
 
 ```python
 # The orthonormal basis S
